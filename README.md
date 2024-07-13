@@ -16,3 +16,5 @@ Evaluation
 
 Generates top 10 recommendations for each system.
 Calculates RMSE and MAE metrics to compare the performance of the two systems.
+
+link for rating.csv(datset for collaborative filtering) : https://drive.google.com/file/d/1wXGuG3EsOfnuweFbWDCcpb6rk2_7N1UQ/view?usp=sharing
